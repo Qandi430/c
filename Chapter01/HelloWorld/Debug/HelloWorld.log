@@ -1,3 +1,2 @@
-﻿  main.cpp
-d:\work\c\chapter01\helloworld\main.cpp(3): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-  HelloWorld.vcxproj -> D:\work\c\Chapter01\HelloWorld\Debug\HelloWorld.exe
+﻿  main.c
+  HelloWorld.vcxproj -> D:\work\c\study\Chapter01\HelloWorld\Debug\HelloWorld.exe
