@@ -1,4 +1,5 @@
 //전처리 문
+//stido.h = 표준 입출력 라이브러리
 #include<stdio.h>
 
 //메인 함수
